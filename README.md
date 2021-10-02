@@ -1,6 +1,4 @@
 # Simplified-Processor-Module
-This is a project for a simplified processor that contains the following submodules:
-1. Control Unit for the decoding and executing.
-2. Register File containing four 8-bit registers.
-3. Arithmetic Logic Unit with a simplified operation set.
-4. A single 8-bit output port
+The aim of this project is to implement a simplified processor using gate level implementation approach on NI Multisim tool. The processor contains a Control Unit (CU) for the decoding and executing, Register File containing four 8-bit registers, Arithmetic Logic Unit (ALU) with a simplified operation set, and a single 8-bit output port.
+Keywords: CU, ALU, Register File, NI Multisim tool.
+
